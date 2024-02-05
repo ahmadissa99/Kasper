@@ -233,7 +233,7 @@ header .form i {
 /* End Header */
 
 .landing {
-  background-image: url(./public/images/landing-background.jpg);
+  background-image: url(../public/images/landing-background.jpg);
   background-size: cover;
   height: 100vh;
   position: relative;
